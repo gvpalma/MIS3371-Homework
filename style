@@ -1,0 +1,24 @@
+    body {
+      background-color: lightblue;
+      font-family: "Times New Roman", serif;
+      text-align: center;
+    }
+    form {
+      background: white;
+      border-radius: 10px;
+      max-width: 400px;
+      margin: 20px auto;
+    }
+    label, input[type="submit"], input[type="reset"] {
+      display: block;
+      margin: 10px 0;
+    }
+    input[type="text"] {
+      width: 95%;
+    }
+
+    { .container 
+      display: flex;
+      gap: 10px;  }
+
+  
